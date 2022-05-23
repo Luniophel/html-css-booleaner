@@ -1,0 +1,59 @@
+/* commons */
+div {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+h1 {
+        font-size: 50px;
+}
+/* titolo autore */
+h2 {
+        font-size: 23px;
+        color: gray;
+        font-style: bold;
+        font-weight: normal;
+}
+/* fine titolo autore */
+p {
+    font-size: 15px;
+}
+.FontMarked {
+    background-color: rgb(255, 255, 100);
+}
+.FontArticle {
+    font-size: 20px;
+}
+/* fine commons */
+
+/* header */
+#TheBooleanerBanner {
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    }
+
+#BooleanerLogo {
+    height: 70px
+}
+
+#author {
+    color: cyan;
+}
+/* fine header */
+/* div tabella */
+.fixedth {
+    width: 150px;
+}
+thead {
+    background-color: #4ea0ff;
+    color: antiquewhite;
+}
+/* formattazione celle righe dispari */
+.toddrow {
+    background-color: #add8e6;
+}
+/* fine formattazione celle righe dispari */
+/* fine div tabella */
+
+/* footer */
+/* fine footer */
