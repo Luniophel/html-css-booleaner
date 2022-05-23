@@ -1,4 +1,8 @@
 /* commons */
+div {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 h1 {
         font-size: 50px;
 }
