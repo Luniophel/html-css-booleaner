@@ -56,4 +56,28 @@ thead {
 /* fine div tabella */
 
 /* footer */
+/* prima thumbnail */
+#thumb01 {
+    background-image: url(img/monitor.jpg);
+    background-size:cover;
+    width:260px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+/* fine prima thumbnail */
+/* seconda thumbnail */
+#thumb02 {
+    background-image: url(img/graph.jpg);
+    background-size:cover;
+    width:260px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+/* fine seconda thumbnail */
 /* fine footer */
