@@ -13,6 +13,12 @@ h2 {
 p {
     font-size: 15px;
 }
+.FontMarked {
+    background-color: rgb(255, 255, 100);
+}
+.FontArticle {
+    font-size: 20px;
+}
 /* fine commons */
 
 /* header */
