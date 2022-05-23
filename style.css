@@ -1,0 +1,30 @@
+/* commons */
+h1 {
+        font-size: 50px;
+}
+/* titolo autore */
+h2 {
+        font-size: 23px;
+        color: gray;
+        font-style: bold;
+        font-weight: normal;
+}
+/* fine titolo autore */
+p {
+    font-size: 15px;
+}
+/* fine commons */
+
+/* header */
+
+#TheBooleanerBanner {
+    background-color: #4ea0ff;
+    }
+
+#BooleanerLogo {
+    height: 70px
+}
+
+#author {
+    color: cyan;
+}
