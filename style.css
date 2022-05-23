@@ -22,7 +22,6 @@ p {
 /* fine commons */
 
 /* header */
-
 #TheBooleanerBanner {
     background-color: #4ea0ff;
     }
@@ -34,3 +33,18 @@ p {
 #author {
     color: cyan;
 }
+/* fine header */
+/* div tabella */
+.fixedth {
+    width: 150px;
+}
+thead {
+    background-color: #4ea0ff;
+    color: antiquewhite;
+}
+/* formattazione celle righe dispari */
+.toddrow {
+    background-color: #add8e6;
+}
+/* fine formattazione celle righe dispari */
+/* fine div tabella */
